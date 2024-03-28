@@ -87,8 +87,8 @@
       "name": "布谷4k",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0",
-      "ext": "https://gitee.com/nil2058/mytv/raw/main/json/布谷.json"
+      "jar": "./xyq.jar",
+      "ext": "./lib/布谷.json"
     },
       {
       "key": "csp_XYQHikerAL_4KHDR",
